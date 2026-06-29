@@ -11,6 +11,6 @@
 <br>
 <div align="center">
 <a href="https://leetcode.com/shreyanshsrivastava_">
-  <img src="leetcode.png" alt="LeetCode" width=48>
+  <img src="leetcode.png" alt="LeetCode" height=52>
 </a>
 </div>
