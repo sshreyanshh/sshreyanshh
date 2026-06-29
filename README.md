@@ -1,7 +1,7 @@
 ![Banner](banner.png)
 
-<div align="center">
-<h3><b>writing logic. tracking global affairs.</b></h3>
+<div align="center" style="font-family: 'Monaspace Neon'">
+<h5><b>writing logic. tracking global affairs.</b></h5>
 </div>
 
 <div align="center">
