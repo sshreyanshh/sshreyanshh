@@ -8,11 +8,9 @@
 <img src="https://skillicons.dev/icons?i=cpp,python,mysql,git,linux,github,vscode" alt="My Skills" />
 </div>
 
+<br>
 <div align="center">
 <a href="https://leetcode.com/shreyanshsrivastava_">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
-</a>
-<a href="https://codeforces.com/profile/shreyansh.srivastava">
-  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="CodeForces" />
+  <img src="leetcode.png" alt="LeetCode" width=48>
 </a>
 </div>
