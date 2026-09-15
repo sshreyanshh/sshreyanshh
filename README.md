@@ -48,12 +48,4 @@ Outside of academics and programming, I follow **geopolitics, international rela
 
 ---
 
-<h3 align="center">CONTRIBUTION GRAPH</h3>
- 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sshreyanshh&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 <p align="center"><i>Thanks for stopping by — always happy to connect and collaborate!</i></p>
